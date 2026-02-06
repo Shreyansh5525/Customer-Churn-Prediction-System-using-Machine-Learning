@@ -88,4 +88,4 @@ telco_churn_model.pkl
 ```
 
 👨‍💻 Author
-Shreyansh Kumar..
+Shreyansh Kumar.
